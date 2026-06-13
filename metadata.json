@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Tashkent City Mall",
+  "description": "Tashkent City Mall - zamonaviy savdo, ko\u0027ngilochar va madaniyat markazining mukammal interaktiv portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
